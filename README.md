@@ -15,19 +15,19 @@
 ---
 
 ## 🛠️ Projects
-### 🔹 [Photo Search and Storage Service (Inspired by Apple Photos)]
+### 🔹 Photo Search and Storage Service (Inspired by Apple Photos)
 - Built a Flask application using YOLO for feature extraction to detect and label objects in uploaded images.
 - Stored images in AWS S3 with metadata in SQLite, enabling search by label and confidence level for fast, relevant retrieval.
 
-### 🔹 [Distributed In-Memory Key-Value Store (Inspired by Redis)]
+### 🔹 Distributed In-Memory Key-Value Store (Inspired by Redis)
 - Developed a distributed key-value store with asynchronous replication, achieving sub-5ms reads and writes from local nodes with real-time (eventual) consistency.
 - Integrated disk-based Write-Ahead Logging (WAL) to guarantee durability and enable data recovery in case of node failures.
 
-### 🔹 [NamsGPT: AI-Powered Discord Assistant]
+### 🔹 NamsGPT: AI-Powered Discord Assistant
 - Developed a chatbot using Python and OpenAI's GPT-3.5 for real-time interactions on Discord.
 - Enhanced user experience with dynamic responses and API integrations.
 
-### 🔹 [Service Connect]
+### 🔹 Service Connect
 - Built a service-booking platform with features like partner verification, booking systems, and notifications.
 
 ### 🔹 Python Lucene Search Engine
