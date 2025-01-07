@@ -23,7 +23,7 @@
 - Developed a distributed key-value store with asynchronous replication, achieving sub-5ms reads and writes from local nodes with real-time (eventual) consistency.
 - Integrated disk-based Write-Ahead Logging (WAL) to guarantee durability and enable data recovery in case of node failures.
 
-### 🔹 NamsGPT: AI-Powered Discord Assistant
+### 🔹 AI-Powered Discord Assistant
 - Developed a chatbot using Python and OpenAI's GPT-3.5 for real-time interactions on Discord.
 - Enhanced user experience with dynamic responses and API integrations.
 
