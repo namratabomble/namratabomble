@@ -6,11 +6,11 @@
 ---
 
 ## 🔧 Skills & Expertise
-- **Languages**: Python, Java, JavaScript, SQL, HTML, CSS  
+- **Languages**: Python, Java, JavaScript,C, C++, C#, SQL, HTML, CSS  
 - **Frameworks & Libraries**: Spring Boot, React, Dialogflow  
 - **Tools**: Jenkins, Docker, Azure, Firebase, Power BI  
 - **Databases**: PostgreSQL, MongoDB  
-- **Other Expertise**: RESTful APIs, GraphQL, Machine Learning, Web Accessibility (WCAG 2 standards)  
+- **Other Expertise**: RESTful APIs, GraphQL, Machine Learning, Web Accessibility 
 
 ---
 
@@ -36,10 +36,11 @@
 ---
 
 ## 🌟 Interests
-- Machine Learning  
-- Scalable Systems  
-- Web Development  
-- DevOps and CI/CD  
+- Machine Learning
+- Full stack Development
+- Scalable Systems
+- Distributed System  
+- DevOps and CI/CD 
 
 ---
 ## 🌱 What I’m Currently Learning
